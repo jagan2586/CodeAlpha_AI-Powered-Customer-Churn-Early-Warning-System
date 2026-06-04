@@ -25,12 +25,5 @@ Random Forest Classifier
 - Feature Importance Analysis
 - Business Insights
 
-## 🎯 Results
-- Accuracy ~ 80%
-- ROC-AUC ~ 0.84
-
 ## 📌 Business Impact
 Helps telecom companies identify customers likely to churn and take retention actions.
-
-## 🚀 How to Run
-1. Install requirements:
